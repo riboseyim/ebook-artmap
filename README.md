@@ -1,5 +1,5 @@
 # OnlyYou 艺术图谱
-官网地址：**[https://github.com/riboseyim/art-map](https://github.com/riboseyim/art-map)**（官网）
+官网地址：**[https://github.com/riboseyim/art-map](https://github.com/riboseyim/art-map)**
 
 ## 简介
 
@@ -9,9 +9,9 @@ OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](ht
 
 目前艺术图谱已有下面几个领域：
 
-**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**
-------- | ---- | ---- | ---- |
-古典音乐| [RiboseYim睿哥](https://github.com/riboseyim)|[原创链接](https://github.com/riboseyim/art-map/issues/1)|[推荐](https://github.com/TeamStuQ/skill-map/issues/9)｜归档｜脑图 
+|**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**|
+|------- | ---- | ---- | ---- |
+|古典音乐| [RiboseYim睿哥](https://github.com/riboseyim)|[原创链接](https://github.com/riboseyim/art-map/issues/1)|[推荐]()｜归档｜脑图|
 
 
 
@@ -20,7 +20,7 @@ OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](ht
 - 西方古典音乐
 - 中国民族曲艺
 
-欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源（赠礼品），有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [riboseyim@gmail.com](mailto:riboseyim@gmail.com?subject=艺术图谱)。
+欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源，有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [riboseyim@gmail.com](mailto:riboseyim@gmail.com?subject=艺术图谱)。
 
 ## 改进目标
 
@@ -34,7 +34,7 @@ OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](ht
 ## 版本信息
 
 ### v 0.1.2
-- 古典音乐领域新增
+- 新增古典音乐
 
 ### v 0.0.1
 - create；
