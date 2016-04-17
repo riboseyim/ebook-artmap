@@ -11,7 +11,7 @@ OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](ht
 
 |**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**|
 |------- | ---- | ---- | ---- |
-|古典音乐| [RiboseYim睿哥](https://github.com/riboseyim)|[原创链接](https://github.com/riboseyim/art-map/issues/1)|｜归档｜脑图|
+|#[古典音乐](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md)| [RiboseYim睿哥](https://github.com/riboseyim)|[原创链接](https://github.com/riboseyim/art-map/issues/1)|｜归档｜脑图|
 
 
 
