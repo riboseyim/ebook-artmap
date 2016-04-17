@@ -17,8 +17,11 @@ OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](ht
 
 以及**正在建设中**的领域：
 
-- 西方古典音乐
-- 中国民族曲艺
+- [西方古典音乐](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md)（莫扎特、贝多芬）
+- [中国民族曲艺](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md) (昆曲、京剧、越剧)
+
+![古典音乐](./data/img-classical.png)
+
 
 欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源，有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [riboseyim@gmail.com](mailto:riboseyim@gmail.com?subject=艺术图谱)。
 
