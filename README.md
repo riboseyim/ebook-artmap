@@ -1,52 +1,48 @@
-# OnlyYou 艺术图谱
-官网地址：**[https://github.com/riboseyim/art-map](https://github.com/riboseyim/art-map)**
------
------
-## 简介
+# ebook 香山艺术评论
 
-OnlyYou 艺术图谱是由 RiboseYim（[https://github.com/riboseyim/art-map](https://github.com/riboseyim)）发起的一个社区开源项目
-志在汇集整理泛艺术领域（古典音乐，民族曲艺等）知识图谱，
-帮助爱好者梳理知识框架结构，并尝试提供路径指导和精华资源，方便学习成长。
+## 翻译／整理：[RiboseYim](https://riboseyim.github.io)
 
-目前艺术图谱已有下面几个领域：
+>工程师、深度阅读患者。
 
-|**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**路径&资源**|
-|------- | ---- | ---- | ---- |
-|#[古典音乐](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md)| [RiboseYim睿哥](https://github.com/riboseyim)|[原创链接](https://github.com/riboseyim/art-map/issues/1)|｜归档｜脑图|
+[简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
+[知乎专栏](https://www.zhihu.com/people/riboseyim)
 
+### 特色章节
 
+* [建筑美学：南京瞻园](chapter/Architectural/Garden/NanJingZhanYuan.md)
 
-以及**正在建设中**的领域：
+## Community
 
-- [西方古典音乐](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md)（莫扎特、贝多芬）
-- [中国民族曲艺](https://github.com/riboseyim/art-map/blob/master/data/map-classical.md) (昆曲、京剧、越剧)
+[简书专题：《香山艺术评论》](http://www.jianshu.com/c/8a1a60d98d92)
 
-![古典音乐](./data/img-classical.png)
-
-
-欢迎**贡献**新领域技能图谱，**推荐**学习路径与资源，有任何改进意见和建议，也可以建立 issue 讨论或发送邮件至 [riboseyim@gmail.com](mailto:riboseyim@gmail.com?subject=艺术图谱)。
-
-## 改进目标
-
-1. 继续细化各领域节点；
-2. 提供各领域的参考学习路径；
-3. 推荐各知识点相关优质资源；
-
-## 加入我们
-- 微信：请加小助手（Ribose101）并备注“艺术图谱”，小助手会邀请您进群；
-
-## 版本信息
-
-### v 0.1.2
-- 新增古典音乐
-
-### v 0.0.1
-- create；
+**小密圈：**
+![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_art_samll.png)
 
 
 
-## 许可
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。
-*转载请注明[出处](https://github.com/riboseyim/art-map)。*
+### VERSION 1.0.1-201702
 
-最终解释权归 **RiboseYim** 所有。
+https://www.gitbook.com/book/riboseyim/ebook-economist/details
+
+## Thanks
+
+Thanks to my family and colleagues.
+
+<hr>
+更多精彩内容，请扫码关注公众号：@睿哥杂货铺 [RSS订阅 RiboseYim](https://riboseyim.github.io)
+
+![微信公众号](http://o8m8ngokc.bkt.clouddn.com/qrcode_for_gh_896dd3dd5255_344.jpg)
+
+## License
+
+**You are free to Share**
+
+copy and redistribute the material in any medium or format
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+**Under the following terms:**
+
+1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+2. NonCommercial — You may not use the material for commercial purposes.
+3. NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+4. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
