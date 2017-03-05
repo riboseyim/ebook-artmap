@@ -13,11 +13,11 @@
 
 * [建筑美学：南京瞻园](chapter/Architectural/Garden/NanJingZhanYuan.md)
 
-* [探宝：上海博物馆之佛教造像鉴赏](chapter/Architectural/Garden/Buddhism.md)
-* [探宝：上海博物馆之历代官印鉴赏](chapter/Architectural/Garden/Stamp.md)
-* [探宝：上海博物馆之钱币鉴赏](chapter/Architectural/Garden/Money.md)
-* [探宝：上海博物馆之青铜器鉴赏](chapter/Architectural/Garden/Bronze.md)
-
+* [探宝：上海博物馆之佛教造像鉴赏](chapter/museum/ShangHai/Buddhism.md)
+* [探宝：上海博物馆之历代官印鉴赏](chapter/museum/ShangHai/Stamp.md)
+* [探宝：上海博物馆之钱币鉴赏](chapter/museum/ShangHai/Money.md)
+* [探宝：上海博物馆之青铜器鉴赏](chapter/museum/ShangHai/Bronze.md)
+* [探宝：钞票人物|风流小王爷](chapter/museum/ShangHai/MoneyPeople.md)
 
 
 ## Community
