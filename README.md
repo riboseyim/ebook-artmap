@@ -8,7 +8,7 @@
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
 ### 特色章节
-
+* [影评：灵魂解码《林肯》（1）](chapter/Film/Lincoln/Film-Lincoln-1.md)
 * [建筑美学：南京瞻园](chapter/Architectural/Garden/NanJingZhanYuan.md)
 
 ## Community
