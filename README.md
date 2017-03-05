@@ -9,6 +9,7 @@
 
 ### 特色章节
 * [影评：灵魂解码《林肯》（1）](chapter/Film/Lincoln/Film-Lincoln-1.md)
+* [剧评：《南海十三郎》的幕后故事](chapter/Film/Nanhai/Film-NanHai-1.md)
 * [建筑美学：南京瞻园](chapter/Architectural/Garden/NanJingZhanYuan.md)
 
 ## Community
