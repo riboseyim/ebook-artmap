@@ -1,8 +1,6 @@
 # 香山艺术评论
 
-## Author：[RiboseYim](https://riboseyim.github.io)
-
->
+## Author ：[RiboseYim](https://riboseyim.github.io)
 
 [简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
@@ -24,11 +22,11 @@
 [简书专题：《香山艺术评论》](http://www.jianshu.com/c/8a1a60d98d92)
 
 **小密圈：**
+
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_art_samll.png)
 
 
-
-### VERSION 1.0.1-201702
+### Latest Version
 
 https://www.gitbook.com/book/riboseyim/art-map/details
 
