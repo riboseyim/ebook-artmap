@@ -16,7 +16,6 @@
 * [探宝：上海博物馆之青铜器鉴赏](chapter/museum/ShangHai/Bronze.md)
 * [探宝：钞票人物|风流小王爷](chapter/museum/ShangHai/MoneyPeople.md)
 
-
 ## Community
 
 [简书专题：《香山艺术评论》](http://www.jianshu.com/c/8a1a60d98d92)
